@@ -3,10 +3,10 @@
     <div id="nav">
        <v-app-bar
           app    
-          color="green"
+          color="deep-purple lighten-4"
         >
        <v-appbar-title shrink-on-scroll=true>
-        Mindful Meditations
+        Matt Kaiser
        </v-appbar-title>
    
       <v-spacer></v-spacer>
@@ -14,6 +14,7 @@
         <v-btn flat light to="/" exact>home</v-btn>
         <v-btn flat dark to="/projects" exact>projects</v-btn>
         <v-btn flat light to="/about" exact>about</v-btn>
+        <v-btn flat light to="/recipes" exact>recipes</v-btn>
         <v-btn flat light to="/sandbox" exact>sandbox</v-btn>
       </v-appbar-items>
 
@@ -33,7 +34,7 @@
 }
 
 #nav {
-  padding: 30px;
+  padding: 20px;
 
   a {
     font-weight: bold;

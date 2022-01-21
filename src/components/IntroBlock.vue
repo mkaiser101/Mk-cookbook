@@ -1,13 +1,11 @@
 <template>
     <v-app>
+      <v-card>
       <v-img
-      max-height="700"
       :src="image1.src"
+      height="100vh"
       ></v-img>
-      <v-img
-      max-height="700"
-      :src="image3.src"
-      ></v-img>
+      </v-card>
     </v-app>
 </template>
 
@@ -17,7 +15,7 @@
     data () {
       return {
         image1: {
-          src: require('../assets/yoga_mountain.jpeg')
+          src: require('../assets/obx_sunset.jpeg')
         },
         image2: {
           src: require('../assets/yoga_duncans_knob.png')

@@ -23,6 +23,11 @@ const routes = [
     path: '/sandbox',
     name: 'Sandbox',
     component: () => import(/* webpackChunkName: "sandbox" */ '../views/Sandbox.vue')
+  },
+  {
+    path: '/recipes',
+    name: 'Recipes',
+    component: () => import(/* webpackChunkName: "sandbox" */ '../views/Sandbox.vue')
   }
 ]
 
