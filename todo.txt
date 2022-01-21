@@ -1,4 +1,6 @@
-Add picture for paralax and text
+add text over intro image
+
+add a few recipes
 
 Footer bar 
 

@@ -2,7 +2,8 @@
   <v-app>
     <div id="nav">
        <v-app-bar
-          app    
+          app   
+          dense 
           color="deep-purple lighten-4"
         >
        <v-appbar-title shrink-on-scroll=true>
