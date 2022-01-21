@@ -1,6 +1,5 @@
 <template>
   <div class="recipes">
-    <IntroBlock/>
     <ThreeSections/>
   </div>
 </template>
@@ -10,13 +9,11 @@
 
 
 import ThreeSections from '@/components/ThreeSections.vue'
-import IntroBlock from '@/components/IntroBlock.vue'
 
 export default {
   name: 'recipes',
   components: {
-    ThreeSections,
-    IntroBlock
+    ThreeSections
   }
 }
 </script>

@@ -13,10 +13,8 @@
       <v-spacer></v-spacer>
       <v-appbar-items>
         <v-btn flat light to="/" exact>home</v-btn>
-        <v-btn flat dark to="/projects" exact>projects</v-btn>
-        <v-btn flat light to="/about" exact>about</v-btn>
         <v-btn flat light to="/recipes" exact>recipes</v-btn>
-        <v-btn flat light to="/sandbox" exact>sandbox</v-btn>
+        <v-btn flat light to="/contact" exact>contact</v-btn>
       </v-appbar-items>
 
     </v-app-bar>

@@ -11,8 +11,8 @@
       <div class="bottom-right">Bottom Right</div>
       <div class="centered">Centered</div>
 
-      <span class="my-span">
-                  Info
+      <span class="title-span">
+                  Welcome to my website, I like to cook, play outside, and write code.  Thank you very much.
                 </span>
       </v-img>
       
@@ -41,12 +41,12 @@
 
 <style>
 
-  .my-span {
-    background-color: blue;
-    color: white;
+  .title-span {
+    color: #D1C4E9;
     font-weight: bold;
-    margin-right: 0;
-    float: right;
+    margin-top: 12%;
+    margin-left: 5%;
+    float: left;
   }
   .container {
     position: relative;
