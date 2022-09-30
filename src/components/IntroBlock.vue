@@ -5,17 +5,13 @@
       :src="image1.src"
       height="100vh"
       >
-      <div class="bottom-left">Bottom Left</div>
-      <div class="top-left">Top Left</div>
-      <div class="top-right">Top Right</div>
-      <div class="bottom-right">Bottom Right</div>
-      <div class="centered">Centered</div>
-
+      <div class="text_1">
+        Hi, this site holds some recipes and photos, hope you enjoy.
+        </div>
       <span class="title-span">
-                  Welcome to my website, I like to cook, play outside, and write code.  Thank you very much.
-                </span>
+                  Hi, this site holds some recipes and photos, hope you enjoy.
+                  </span>
       </v-img>
-      
       </v-card>
     </v-app>
 </template>
@@ -26,7 +22,7 @@
     data () {
       return {
         image1: {
-          src: require('../assets/obx_sunset.jpeg')
+          src: require('../assets/runway.jpeg')
         },
         image2: {
           src: require('../assets/yoga_duncans_knob.png')
@@ -44,50 +40,21 @@
   .title-span {
     color: #D1C4E9;
     font-weight: bold;
-    margin-top: 12%;
+    margin-top: 26%;
     margin-left: 5%;
     float: left;
   }
+
   .container {
     position: relative;
     text-align: center;
     color: white;
   }
 
-  /* Bottom left text */
-  .bottom-left {
+  .text_1 {
     position: absolute;
-    bottom: 8px;
-    left: 16px;
-  }
-
-  /* Top left text */
-  .top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-  }
-
-  /* Top right text */
-  .top-right {
-    position: absolute;
-    top: 40px;
-    right: 16px;
-  }
-
-  /* Bottom right text */
-  .bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-  }
-
-  /* Centered text */
-  .centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    top: 25%;
+    right: 25%;
   }
 </style>
 
