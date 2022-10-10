@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <IntroBlock/>
-    <AboutCard/>
+    <MiddleFrontPage/>
     <ObxSunset/>
   </div>
 </template>
@@ -12,14 +12,14 @@
 
 
 import IntroBlock from '@/components/IntroBlock.vue'
-import AboutCard from '@/components/AboutCard.vue'
+import MiddleFrontPage from '@/components/MiddleFrontPage.vue'
 import ObxSunset from '@/components/ObxSunset.vue'
 
 export default {
   name: 'Home',
   components: {
     IntroBlock,
-    AboutCard,
+    MiddleFrontPage,
     ObxSunset
   }
 }

@@ -24,9 +24,6 @@
         image1: {
           src: require('../assets/runway.jpeg')
         },
-        image2: {
-          src: require('../assets/yoga_duncans_knob.png')
-        },
         image3: {
           src: require('../assets/meditate_duncans_knob.jpeg')
       }
