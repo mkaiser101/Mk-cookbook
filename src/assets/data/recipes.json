@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Coconut chickpea and potato curry",
+        "ingredients": [
+            {
+                "quantity": "1.5 cups",
+                "name": "Chickpeas"
+            },
+            {
+                "quantity": "5",
+                "name": "Mini Potatos"
+            }
+        ],
+        "steps": [
+            "Make beans.",
+            "Instapot the things.",
+            "add coconut milk."
+        ],
+        "tips": "extra coconut milk is fun too",
+        "appliance":"",
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg"
+    },
+    {
+        "name": "Reverse Seared Steak",
+        "ingredients": [
+            {
+                "quantity": "As fat as you'd like",
+                "name": "ribeye, ny strip, anything thick"
+            },
+            {
+                "quantity": "half stick",
+                "name": "Butter"
+            }
+        ],
+        "steps": [
+            "Preheat oven to 225°F.",
+            "Put the steak on a pan lined with parchment paper",
+            "Throw it on the grill or cast iron high af heat with some butter on top."
+        ],
+        "tips": "high af heat, if you have a metal grate that fits on the baking pan for step 2, it'll keep the steak looking pretty",
+        "appliance":"baking sheet + castiron/grill",
+        "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/50/84/7/picMcSyVd.jpg"
+    },
+    {
+        "name": "Cast iron pizza",
+        "ingredients": [
+            {
+                "quantity": "1",
+                "name": "pizza dough"
+            },
+            {
+                "quantity": "1 cup",
+                "name": "pizza sauce"
+            },
+            {
+                "quantity": "4 tablespoons",
+                "name": "vegetable oil"
+            },
+            {
+                "quantity": "2 tablespoons",
+                "name": "sugar"
+            },
+            {
+                "quantity": "2 teaspoons",
+                "name": "salt",
+                "type": "Baking"
+            },
+            {
+                "quantity": "2 cups",
+                "name": "hot water"
+            },
+            {
+                "quantity": "1/4 cup",
+                "name": "pizza sauce"
+            },
+            {
+                "quantity": "3/4 cup",
+                "name": "mozzarella cheese"
+            }
+        ],
+        "steps": [
+            "Add hot water to yeast in a large bowl and let sit for 15 minutes.",
+            "Mix in oil, sugar, salt, and flour and let sit for 1 hour.",
+            "Knead the dough and spread onto a pan.",
+            "Spread pizza sauce and sprinkle cheese.",
+            "Add any optional toppings as you wish.",
+            "Bake at 400 deg Fahrenheit for 15 minutes.",
+            "Enjoy!"
+        ],
+        "tips": "bake er hot",
+        "appliance":"over and cast iron",
+        "imageURL": "http://upload.wikimedia.org/wikipedia/commons/c/c7/Spinach_pizza.jpg"
+    } 
+]

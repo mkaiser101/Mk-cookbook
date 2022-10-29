@@ -1,0 +1,30 @@
+[   
+   {
+        "name": "",
+        "ingredients": [
+            {
+                "quantity": "",
+                "name": ""
+            },
+            {
+                "quantity": "",
+                "name": ""
+            },
+            {
+                "quantity": "",
+                "name": ""
+            },
+            {
+                "quantity": "",
+                "name": ""
+            }
+        ],
+        "steps": [
+            "",
+            ""
+        ],
+        "tips": "",
+        "appliance":"",
+        "imageURL": ""
+    }
+]

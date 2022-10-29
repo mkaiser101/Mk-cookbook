@@ -1,6 +1,5 @@
-add text over intro image
+add a few recipes + post the recipes to frontend
 
-add a few recipes
+carousel front middle section with two images per slide?
 
-Footer bar 
-
+cleaner intro block
